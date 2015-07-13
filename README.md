@@ -1,2 +1,2 @@
 # hello-world
-leran to use github
+learn to use github
